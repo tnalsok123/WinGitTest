@@ -24,7 +24,7 @@ namespace WinGitTest
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Text = "버튼클릭ㄴㅇㄴㅁㅀㄶㄶㄶ"
+            this.Text = "버튼클릭ㄴㅇㄴㅁㅀㄶㄶㄶ";
         }
     }
 }
